@@ -18,7 +18,7 @@
 
 ### 🛠️ **Tech Stack**
 
-- **Engine:** Unity (Recommended version: **Unity 6.1.12**)  
+- **Engine:** Unity (Recommended version: **Unity 6.1.12f1**)  
 - **Language:** C#  
 - **Assets:** CodeMonkey free assets and prefabs  
 - **IDE:** Visual Studio Code / Rider  
@@ -56,14 +56,55 @@ LuaLander/
 ├── ProjectSettings/                    # Unity editor & build configuration
 ├── LuaLander.sln                       # Visual Studio solution
 ├── Assembly-CSharp.csproj              # Unity auto-generated C# project file
-└── README.md                           # Project documentation
+
 ```
 
-### ⚠️ **Disclaimer**
+### 📥 **Installation & Setup**
 
-+ This project is a **learning exercise** based on Code Monkey’s tutorial.  
-+ It is **not an original game concept** and is intended for **educational and portfolio purposes only**.  
-+ Tutorial code, assets, and guidance belong to **Code Monkey**.  
-+ This repository is **not intended for commercial distribution**.  
+1. **Clone or Download this repository**  
+   ```bash
+   https://github.com/yourusername/2d-lua-lander.git
+2. **Open in Unity Hub**
+
++ Recommended version: Unity 6000.1.12f1
+
+ + Add the project folder (LuaLander/) to Unity Hub.
+
+ 3. **Open the mainmenu scene**
+
+ + Navigate to:
+
+Assets/Scenes/MainMenuScene
+
+5. **Press ▶ Play in the Unity Editor to start the game.**
+---
+
+### 🧠 **Learning Objectives**
+
+This project helped me practice and understand the following Unity and game development concepts:
+
+- ⚖️ **Unity 2D Physics** – Applying forces with `Rigidbody2D`, handling collisions, and simulating gravity.  
+- 🎮 **Player Input Handling** – Using Unity’s **Input System** to control thrust and rotation.  
+- 🛸 **Game Logic** – Implementing win/lose conditions, crash detection, and landing checks.  
+- 🖥️ **UI Management** – Displaying HUD elements like angle, score, and retry options.  
+- 🧩 **Prefabs & Scenes** – Reusing game objects and structuring the project for scalability.  
+- 🔊 **Sound Effects Integration** – Adding engine thrust, crash, and landing sounds.  
+- 🗂️ **Project Organization** – Maintaining clean folder structures for scripts, assets, sounds, and prefabs.   
 
 ---
+
+---
+
+### 🙌 **Acknowledgements**
++ Developed by following [Code Monkey’s Unity Tutorial](https://www.youtube.com/watch?v=9zJjg8i3W3I).  
++ Free assets and learning materials provided by **Code Monkey**.  
+
+---
+
+### 📜 **License**
++ This project is for **educational purposes only**.  
++ Tutorial code and assets are credited to **Code Monkey**.  
++ Do **not redistribute commercially** without proper permission.  
+
+---
+
