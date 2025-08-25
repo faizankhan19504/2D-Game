@@ -3,6 +3,8 @@
 + A retro-inspired **physics-based lunar lander game**, built in **Unity** using **C#**.  
 + This project was developed by following the [Code Monkey Unity Tutorial](https://www.youtube.com/watch?v=9zJjg8i3W3I) to practice Unity 2D physics, input handling, and collision systems.
 
+<img width="984" height="545" alt="MainMenuUI" src="https://github.com/user-attachments/assets/766f47f8-7581-43ce-9a36-d9d03a6c6597" />
+
 ---
 
 ### 🚀 **Features**
@@ -13,6 +15,8 @@
 - 💥 **Crash feedback** – Explosions and reset system for failed landings.  
 - ⏳ **Challenge loop** – Retry endlessly until you perfect your landing.  
 - 🎮 **Simple keyboard controls** for intuitive gameplay.  
+
+<img width="1004" height="548" alt="gameScene" src="https://github.com/user-attachments/assets/0b3626f3-915a-4014-b66b-cb78ac392b2e" />
 
 ---
 
